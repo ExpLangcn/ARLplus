@@ -1,0 +1,5 @@
+readline
+requests
+json
+PrettyTable
+urllib3
